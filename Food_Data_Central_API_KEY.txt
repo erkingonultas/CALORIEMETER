@@ -1,0 +1,2 @@
+hKcqCaRjqoKxpNRQi5uDZp4Z1inxv8H2FPzHjT36
+flutter pub run flutter_launcher_icons:main
