@@ -8,4 +8,10 @@ With Calorimeter, you can gain or lose weight as planned or maintain your diet. 
 
 It uses FoodData Central API to fetch nutrition data
 
+Caloriemeter has been published on Google Play Store in September 2021 by me.
+Here is the link for anyone wanted to try it out:
+[CALORIMETER on Google Play Store](https://play.google.com/store/apps/details?id=com.erkingonultas.CALORIMETER "CALORIMETER on Google Play Store")
+
+
 ## Screenshots
+
