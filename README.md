@@ -7,3 +7,5 @@ Thanks to the enormous food database, you can search for any food that you’d l
 With Calorimeter, you can gain or lose weight as planned or maintain your diet. The macronutrients will be calculated precisely with the equations from the literature.
 
 It uses FoodData Central API to fetch nutrition data
+
+## Screenshots
