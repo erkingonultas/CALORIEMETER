@@ -14,4 +14,8 @@ Here is the link for anyone wanted to try it out:
 
 
 ## Screenshots
+![alt text](https://play-lh.googleusercontent.com/wHiZJhlfszbV6aSl1iQI8eaehST47nB5H7058kHnOqCedCp--GdK1UISETsK7Sj8iB0k=w1067-h959-rw "SS1")
+![alt text](https://play-lh.googleusercontent.com/dkV6q1noQrl6FCHIVhzdGndD6CwlqRScfvE7vG2aBSTyJ39LbgaVSq1ftVQ14suOZrWg=w1067-h959-rw "SS2")
+![alt text](https://play-lh.googleusercontent.com/7N90r48DWoPTSTBRUiM3Wf68fKtKKPVKQafYJWsRikLKZkGsZh7TXyB7UGh3NF8zhZM=w1067-h959-rw "SS3")
+![alt text](https://play-lh.googleusercontent.com/LddPZyV-7BmeHchYRi4-gKfszzfWdQYSCHhqkp7P9eJoVGjkMk5cVUWcc-FvZBrjvwE=w1067-h959-rw "SS4")
 
