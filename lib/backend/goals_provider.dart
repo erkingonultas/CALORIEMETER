@@ -430,7 +430,7 @@ class Meals with ChangeNotifier {
 
   Future searchFood(name) async {
     print('searching');
-    const api_key = "w1c9PRGK5dRrONsr98UXMssrmXBpK3St5wh07jAq";
+    const api_key = "SECRET_KEY";
 
     final url = Uri.https('api.nal.usda.gov', '/fdc/v1/foods/search', {
       'api_key': api_key,
